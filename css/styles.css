@@ -1,0 +1,8 @@
+h1 {
+    flex-direction: row
+    position: center,
+}
+
+exp-info {
+    position: absolute;
+}
